@@ -1,0 +1,100 @@
+body {
+    background-color: #fff6f6; 
+    margin-left: 10px
+
+}
+    h1 {
+        margin: 20 auto ;
+        text-align: start;
+        font-size: 50px; 
+        font-style: normal;
+        font-family: 'Courier New', Courier, monospace;
+        color: #ffffff
+        }
+
+        h2 {
+            padding-left: 1;
+            margin: 10 auto ;
+            text-align: left;
+            font-size: 30px; 
+            font-style: normal;
+            font-family: 'Courier New', Courier, monospace;
+            color: #ffffff
+            }
+
+
+#txt { 
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:seashell
+    }
+
+#map   {   
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            height: 550px;
+        }
+
+       
+.legend {
+        line-height: 18px;
+        color: #555;
+    }
+        
+.legend i {
+           width: 18px;
+           height: 18px;
+           float: left;
+           margin-right: 8px;
+           opacity: 0.7;
+    }
+
+header {
+        display: flex;
+        justify-content: start;
+        padding: 10px;
+        color: rgb(37, 30, 30);
+        margin-bottom: 0px;
+    }
+
+
+footer {
+        display: flex;
+        justify-content: left, 
+        padding: 5px;
+        background-color: #1b2229;
+        color: #fff;
+        margin-top: 10px;
+    }
+
+.imagegeonum {
+    height: 100px;
+    min-width: 40px;
+    align-items: left;
+    margin-right: 30%;
+}
+
+.leaflet-left {
+    width: 100%;
+  }
+
+  .leaflet-control-container .leaflet-timeline-controls {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 15px;
+      }
+
+
+      @keyframes chartjs-render-animation{from{opacity:.99}to{opacity:1}}
+      .chartjs-render-monitor{animation:chartjs-render-animation 1ms}
+      .chartjs-size-monitor,.chartjs-size-monitor-expand,.chartjs-size-monitor-shrink{position:absolute;direction:ltr;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1}
+      .chartjs-size-monitor-expand>div{position:absolute;width:1000000px;height:1000000px;left:0;top:0}
+      .chartjs-size-monitor-shrink>div{position:absolute;width:200%;height:200%;left:0;top:0}
+  
+  
+     
+  
+  
+   
