@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\geoinformatique OPEN LAYER\\OpenLayers_web_map\\OpenLayers_web_map"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\3D_itowns"
+		},
+		{
+			"path": "..\\..\\..\\Langage et environnement de base pour Dev WEB\\EVALUATION"
+		},
+		{
+			"path": "..\\..\\..\\geoinformatique OPEN LAYER\\OpenLayers_web_map\\OL_eval"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site"
+	}
+}
